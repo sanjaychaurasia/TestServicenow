@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="WebInfoSys">880e54a807678010f686fbbf7c1ed0ab</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>New Record for User details table</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create new user details</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_465830_webinfosy_user_details</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 07:21:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c992acfc07378010f686fbbf7c1ed09d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create new user details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_app_module_c992acfc07378010f686fbbf7c1ed09d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 07:21:37</sys_updated_on>
+        <timeline_page/>
+        <title>Create new user details</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_app_module_c992acfc07378010f686fbbf7c1ed09d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="WebInfoSys">880e54a807678010f686fbbf7c1ed0ab</application><assessment/><device_type/><filter/><hint>New Record for User details table</hint><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create new user details</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_465830_webinfosy_user_details</name><order>300</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 07:21:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c992acfc07378010f686fbbf7c1ed09d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create new user details</sys_name><sys_overrides/><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sys_app_module_c992acfc07378010f686fbbf7c1ed09d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 07:21:37</sys_updated_on><timeline_page/><title>Create new user details</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1327682525</payload_hash>
+        <record_name>Create new user details</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 07:21:37</sys_created_on>
+        <sys_id>d6d2ac7007778010f686fbbf7c1ed06d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710b6b0e8e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 07:21:37</sys_updated_on>
+        <type>Module</type>
+        <update_guid>12d2ac7085778010169e07bbf338ae6d</update_guid>
+        <update_guid_history>12d2ac7085778010169e07bbf338ae6d:-1327682525</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create new user details">2d8346f807bb8010f686fbbf7c1ed09c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 14:24:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4ca2f2151f5f49829a65f5831b6afc99</sys_id>
+        <sys_metadata>c992acfc07378010f686fbbf7c1ed09d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create new user details</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_app_module_c992acfc07378010f686fbbf7c1ed09d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c992acfc07378010f686fbbf7c1ed09d">d6d2ac7007778010f686fbbf7c1ed06d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 14:24:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

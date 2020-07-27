@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Hide cancel request button</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	
+g_form.setReadOnly('request_state',true);
+g_form.removeOption('approval','rejected');
+g_form.removeOption('approval','cancelled');
+	
+var reqs=g_form.getUniqueValue();
+alert(reqs);
+//------------------------------------------------------------	
+//var req=[];
+//var gr=new GlideRecord('sc_req_item');
+
+//alert(gr);
+//gr.addQuery('request',reqs);
+
+//gr.query();
+
+//while(gr.next()){
+
+//req.push(gr.getValue("number"));
+
+//alert("that is the RITMs:"+req);
+//}
+//-------------------------------------------------------------------	
+	
+
+	//var y=addLateLoadEvent(function(){$j('#180dfd110a04bf1501fc982f0cf791bb').parent().hide();});
+
+var x=g_form.getElement('180dfd110a04bf1501fc982f0cf791bb_bottom');
+	
+	//var y=g_form.getElement('sysverb_delete');
+alert(x);
+x.hide();
+
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 11:32:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2eaeb32007a89010f686fbbf7c1ed015</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Hide cancel request button</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_script_client_2eaeb32007a89010f686fbbf7c1ed015</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 13:06:03</sys_updated_on>
+        <table>sc_request</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_script_client_2eaeb32007a89010f686fbbf7c1ed015</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Hide cancel request button&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+	
+g_form.setReadOnly('request_state',true);
+g_form.removeOption('approval','rejected');
+g_form.removeOption('approval','cancelled');
+	
+var reqs=g_form.getUniqueValue();
+alert(reqs);
+//------------------------------------------------------------	
+//var req=[];
+//var gr=new GlideRecord('sc_req_item');
+
+//alert(gr);
+//gr.addQuery('request',reqs);
+
+//gr.query();
+
+//while(gr.next()){
+
+//req.push(gr.getValue("number"));
+
+//alert("that is the RITMs:"+req);
+//}
+//-------------------------------------------------------------------	
+	
+
+	//var y=addLateLoadEvent(function(){$j('#180dfd110a04bf1501fc982f0cf791bb').parent().hide();});
+
+var x=g_form.getElement('180dfd110a04bf1501fc982f0cf791bb_bottom');
+	
+	//var y=g_form.getElement('sysverb_delete');
+alert(x);
+x.hide();
+
+	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-30 11:32:33&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2eaeb32007a89010f686fbbf7c1ed015&lt;/sys_id&gt;&lt;sys_mod_count&gt;20&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide cancel request button&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="WebInfoSys" source="x_465830_webinfosy"&gt;5fab902807678010f686fbbf7c1ed062&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="WebInfoSys"&gt;5fab902807678010f686fbbf7c1ed062&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_2eaeb32007a89010f686fbbf7c1ed015&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-01 13:06:03&lt;/sys_updated_on&gt;&lt;table&gt;sc_request&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1537884258</payload_hash>
+        <record_name>Hide cancel request button</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 13:06:03</sys_created_on>
+        <sys_id>121e598107acd010f686fbbf7c1ed014</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d0580da80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 13:06:03</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>9a1e598154acd01024b259c7a20f2b13</update_guid>
+        <update_guid_history>9a1e598154acd01024b259c7a20f2b13:-1537884258,365919411facd0101f88f0594a739d23:1597475822,84f1d189d56cd0105ae1f552356e459a:795766619,af911d49c06cd010878b222db792d0b3:809869314,75f0dd09b76cd0108029134098b5436a:1161590242,f70f0105666cd010f617dcbab9f7f692:-1785904273,58ac0541fc6cd0109f7f4cd48b3529d5:670980430,7f2b0901016cd010aefa74dab47e22a5:-915770696,c658054d802cd0104ae511090d467b81:-678764187,a5c24981c82cd01037ba4ad38fb4ae89:-568159640,1debb401e22cd010120929376248cdfd:1281620829,afd7f4c9f9e8d0100c4971f800d2d560:1247211817,6d6738c9e6e8d010c1918a25f8b4dfe0:-1332633709,6996fc8967e8d0102981b49490a758d0:1093830055,21a1ffb406e4d010ffbaddb25c73cb4d:1840909615,9922c4745fa89010e73f72134d69c596:-1270105047,36c10c3432a8901082b96d692fb547ae:-932871096,09114434f1a89010a8bf854a3fb7fa49:1337976920,22cffb601fa8901002e0a80b7e99ce5c:-803955210,2e8ff76065a8901029191142babf277d:-1159757066,be1ff72c056890109245b402b0c25c8e:350824447</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 07:51:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>199841ddb5ce4cec97a96c2079a977a9</sys_id>
+        <sys_metadata>2eaeb32007a89010f686fbbf7c1ed015</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide cancel request button</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent display_value="Sc Request">88417fab07c30010f686fbbf7c1ed0e2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_script_client_2eaeb32007a89010f686fbbf7c1ed015</sys_update_name>
+        <sys_update_version display_value="sys_script_client_2eaeb32007a89010f686fbbf7c1ed015">121e598107acd010f686fbbf7c1ed014</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 07:51:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

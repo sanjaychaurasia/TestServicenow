@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 04:59:48</sys_created_on>
+        <sys_id>f77cfa7407001810f686fbbf7c1ed0e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_465830_webinfosy.Users</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_security_acl display_value="">757c7e7407001810f686fbbf7c1ed0de</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f77cfa7407001810f686fbbf7c1ed0e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 04:59:48</sys_updated_on>
+        <sys_user_role display_value="x_465830_webinfosy.Users" name="x_465830_webinfosy.Users">057c6bd3076f8410f686fbbf7c1ed0de</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_security_acl_role_f77cfa7407001810f686fbbf7c1ed0e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-06 04:59:48</sys_created_on><sys_id>f77cfa7407001810f686fbbf7c1ed0e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_465830_webinfosy.Users</sys_name><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_security_acl display_value="">757c7e7407001810f686fbbf7c1ed0de</sys_security_acl><sys_update_name>sys_security_acl_role_f77cfa7407001810f686fbbf7c1ed0e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-06 04:59:48</sys_updated_on><sys_user_role display_value="x_465830_webinfosy.Users" name="x_465830_webinfosy.Users">057c6bd3076f8410f686fbbf7c1ed0de</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1610941863</payload_hash>
+        <record_name>.x_465830_webinfosy.Users</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 04:59:48</sys_created_on>
+        <sys_id>7f0ff23807001810f686fbbf7c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1714ddbe3ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 04:59:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b70ff238730018105b973a9d59ea8b1f</update_guid>
+        <update_guid_history>b70ff238730018105b973a9d59ea8b1f:1610941863</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_465830_webinfosy.Users">34ffb6f807001810f686fbbf7c1ed012</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 05:03:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>18cfd7a8a9d749ea9572b75f6158c6e4</sys_id>
+        <sys_metadata>f77cfa7407001810f686fbbf7c1ed0e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_465830_webinfosy.Users</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f77cfa7407001810f686fbbf7c1ed0e2</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f77cfa7407001810f686fbbf7c1ed0e2">7f0ff23807001810f686fbbf7c1ed01f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 05:03:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

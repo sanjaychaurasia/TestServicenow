@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="User Asset">f6f5381107845810f686fbbf7c1ed0af</application>
+        <filter/>
+        <name>User Assets</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_465830_webinfosy.Users</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 08:17:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bef5381107845810f686fbbf7c1ed0b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Assets</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_ui_module_bef5381107845810f686fbbf7c1ed0b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 08:17:51</sys_updated_on>
+        <table>x_465830_webinfosy_user_asset</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_ui_module_bef5381107845810f686fbbf7c1ed0b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="User Asset">f6f5381107845810f686fbbf7c1ed0af</application><filter/><name>User Assets</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_465830_webinfosy.Users</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-07 08:17:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bef5381107845810f686fbbf7c1ed0b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Assets</sys_name><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sys_ui_module_bef5381107845810f686fbbf7c1ed0b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-07 08:17:51</sys_updated_on><table>x_465830_webinfosy_user_asset</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1126430850</payload_hash>
+        <record_name>User Assets</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 08:17:51</sys_created_on>
+        <sys_id>f2f5381107845810f686fbbf7c1ed0b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17153b7931b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 08:17:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3ef538112a845810daba1c446bfcb3b3</update_guid>
+        <update_guid_history>3ef538112a845810daba1c446bfcb3b3:1126430850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 08:20:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1d2e7b58f52240ac88a9bbb073502e44</sys_id>
+        <sys_metadata>bef5381107845810f686fbbf7c1ed0b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Assets</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_ui_module_bef5381107845810f686fbbf7c1ed0b1</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_bef5381107845810f686fbbf7c1ed0b1">f2f5381107845810f686fbbf7c1ed0b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 08:20:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

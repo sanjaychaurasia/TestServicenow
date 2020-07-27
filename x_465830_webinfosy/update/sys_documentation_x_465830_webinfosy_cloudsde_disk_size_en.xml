@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="disk_size" label="Disk size" language="en" table="x_465830_webinfosy_cloudsde">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>disk_size</element>
+            <help/>
+            <hint/>
+            <label>Disk size</label>
+            <language>en</language>
+            <name>x_465830_webinfosy_cloudsde</name>
+            <plural>Disk sizes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-22 04:34:28</sys_created_on>
+            <sys_id>9562b7ab07f81010f686fbbf7c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Disk size</sys_name>
+            <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+            <sys_update_name>sys_documentation_x_465830_webinfosy_cloudsde_disk_size_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-22 04:34:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

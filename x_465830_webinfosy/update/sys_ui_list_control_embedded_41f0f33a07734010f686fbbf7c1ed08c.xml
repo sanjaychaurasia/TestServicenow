@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control_embedded">
+    <sys_ui_list_control_embedded action="INSERT_OR_UPDATE">
+        <columns_condition/>
+        <empty_condition/>
+        <label/>
+        <link_condition/>
+        <link_roles>x_465830_webinfosy.Developer,x_465830_webinfosy.Manager</link_roles>
+        <list_edit_ref_qual_tag/>
+        <name>x_465830_webinfosy_project</name>
+        <new_condition/>
+        <new_roles/>
+        <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_if_empty>false</omit_if_empty>
+        <omit_links>false</omit_links>
+        <related_list>REL:84be74bc07b78010f686fbbf7c1ed057</related_list>
+        <sys_class_name>sys_ui_list_control_embedded</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-31 03:30:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41f0f33a07734010f686fbbf7c1ed08c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_webinfosy_project</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_ui_list_control_embedded_41f0f33a07734010f686fbbf7c1ed08c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-31 03:30:13</sys_updated_on>
+    </sys_ui_list_control_embedded>
+</record_update>

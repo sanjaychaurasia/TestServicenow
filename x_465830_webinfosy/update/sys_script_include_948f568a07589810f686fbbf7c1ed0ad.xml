@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_465830_webinfosy.ReferenceQualifierUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>ReferenceQualifierUtils</name>
+        <script><![CDATA[var ReferenceQualifierUtils = Class.create();
+ReferenceQualifierUtils.prototype = {
+    initialize: function() {
+    },
+    getWritableProjects: function() {
+        var gr = new GlideRecord('x_465830_webinfosy_project');
+        gr.query();
+        var projectList = [];
+        while (gr.next()) {
+            if (gr.getValue('u_pname_4') == 'MAF' ) {
+				projectList.push(gr.getValue('sys_id'));
+            }
+        }
+		projectList = projectList.join(',');
+        return 'sys_idIN' + projectList;
+    },
+    type: 'ReferenceQualifierUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-22 10:15:15</sys_created_on>
+        <sys_id>948f568a07589810f686fbbf7c1ed0ad</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>ReferenceQualifierUtils</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_script_include_948f568a07589810f686fbbf7c1ed0ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-22 10:33:10</sys_updated_on>
+    </sys_script_include>
+</record_update>

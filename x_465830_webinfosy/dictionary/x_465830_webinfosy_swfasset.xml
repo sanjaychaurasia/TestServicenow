@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="SWFAsset" max_length="40" name="x_465830_webinfosy_swfasset" sizeclass="1" type="collection">
+        <element label="Project" max_length="40" name="project" reference="x_465830_webinfosy_project" type="string"/>
+    </element>
+</database>

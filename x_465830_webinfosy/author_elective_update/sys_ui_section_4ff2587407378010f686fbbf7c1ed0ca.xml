@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="4ff2587407378010f686fbbf7c1ed0ca" sys_domain="global" table="x_465830_webinfosy_user_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 06:20:29</sys_created_on>
+            <sys_id>f6d4d8f407378010f686fbbf7c1ed0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 06:20:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 06:20:29</sys_created_on>
+            <sys_id>7ed4d8f407378010f686fbbf7c1ed0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 06:20:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 06:20:29</sys_created_on>
+            <sys_id>fed4d8f407378010f686fbbf7c1ed0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 06:20:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 06:20:29</sys_created_on>
+            <sys_id>72d4d8f407378010f686fbbf7c1ed0b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 06:20:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_465830_webinfosy_user_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 06:12:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ff2587407378010f686fbbf7c1ed0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_465830_webinfosy_user_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+            <sys_update_name>sys_ui_section_4ff2587407378010f686fbbf7c1ed0ca</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 06:12:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_ui_section_4ff2587407378010f686fbbf7c1ed0ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="4ff2587407378010f686fbbf7c1ed0ca" sys_domain="global" table="x_465830_webinfosy_user_details" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_reference_1</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 06:20:29</sys_created_on><sys_id>f6d4d8f407378010f686fbbf7c1ed0b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 06:20:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_boolean_3</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 06:20:29</sys_created_on><sys_id>7ed4d8f407378010f686fbbf7c1ed0b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 06:20:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 06:20:29</sys_created_on><sys_id>fed4d8f407378010f686fbbf7c1ed0b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 06:20:29</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_string_2</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 06:20:29</sys_created_on><sys_id>72d4d8f407378010f686fbbf7c1ed0b6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_465830_webinfosy_user_details" sys_domain="global" view="Default view">4ff2587407378010f686fbbf7c1ed0ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 06:20:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_465830_webinfosy_user_details</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-24 06:12:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ff2587407378010f686fbbf7c1ed0ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_465830_webinfosy_user_details</sys_name><sys_overrides/><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sys_ui_section_4ff2587407378010f686fbbf7c1ed0ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-24 06:12:19</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2140258332</payload_hash>
+        <record_name>User Details</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 06:20:29</sys_created_on>
+        <sys_id>fad4d8f407378010f686fbbf7c1ed0b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710b3316230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 06:20:29</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>76d4d8f49c3780105344908c2e199eb7</update_guid>
+        <update_guid_history>76d4d8f49c3780105344908c2e199eb7:2140258332,4ff25874dc3780105ab8a63c772b88cc:290363515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 17:49:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0097a44598774a4c8094c7e96430a664</sys_id>
+        <sys_metadata>4ff2587407378010f686fbbf7c1ed0ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_webinfosy_user_details</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent display_value="">95421cf807f38010f686fbbf7c1ed050</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4ff2587407378010f686fbbf7c1ed0ca</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4ff2587407378010f686fbbf7c1ed0ca">fad4d8f407378010f686fbbf7c1ed0b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 17:49:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

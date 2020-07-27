@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">48fee1e407301010f686fbbf7c1ed0f0</sp_column>
+        <sp_widget display_value="Catalog Content">f2384e2047101200ba13a5554ee490ce</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:47:28</sys_created_on>
+        <sys_id>67124e69071d9010f686fbbf7c1ed099</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sp_instance_67124e69071d9010f686fbbf7c1ed099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:47:28</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=67124e69071d9010f686fbbf7c1ed099"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sp_instance_67124e69071d9010f686fbbf7c1ed099</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">48fee1e407301010f686fbbf7c1ed0f0</sp_column><sp_widget display_value="Catalog Content">f2384e2047101200ba13a5554ee490ce</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-09 11:47:28</sys_created_on><sys_id>67124e69071d9010f686fbbf7c1ed099</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sp_instance_67124e69071d9010f686fbbf7c1ed099</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-09 11:47:28</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=67124e69071d9010f686fbbf7c1ed099"/></record_update>]]></payload>
+        <payload_hash>903042573</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:47:28</sys_created_on>
+        <sys_id>eb124e69071d9010f686fbbf7c1ed09b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17298e81f2b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:47:28</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>27124e69791d9010413c7a33042f929b</update_guid>
+        <update_guid_history>27124e69791d9010413c7a33042f929b:903042573</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">43630ea90791d010f686fbbf7c1ed023</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:53:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>01c79e490fe0430988502a934cd1c8b1</sys_id>
+        <sys_metadata>67124e69071d9010f686fbbf7c1ed099</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sp_instance_67124e69071d9010f686fbbf7c1ed099</sys_update_name>
+        <sys_update_version display_value="sp_instance_67124e69071d9010f686fbbf7c1ed099">eb124e69071d9010f686fbbf7c1ed09b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:53:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

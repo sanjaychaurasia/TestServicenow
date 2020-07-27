@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Project" max_length="40" name="x_465830_webinfosy_project" sizeclass="2" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Project name" max_length="200" name="project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="8" label="Request state" mandatory="true" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="8"/>
+                <element inactive_on_update="false" label="Awaiting Feedback" sequence="1" value="16"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="15"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Requested" sequence="4" value="13"/>
+                <element inactive_on_update="false" label="Awaiting Approval" sequence="5" value="14"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Users" max_length="1024" name="u_glide_list_1" reference="sys_user" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Users" mandatory="true" max_length="1024" name="u_glide_list_2" reference="sys_user" type="glide_list"/>
+        <element label="New HTML" max_length="65536" name="u_html_1" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" max_length="40" name="u_pname_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" max_length="40" name="u_pname_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" mandatory="true" max_length="40" name="u_pname_4" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" dependent="u_reference_department" dependent_on_field="u_reference_department" label="Project members" max_length="1024" name="u_project_members" reference="sys_user" type="glide_list" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" label="Applicant name" max_length="32" name="u_reference_applicant" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Approver" max_length="32" name="u_reference_approver" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Budget Approver" max_length="32" name="u_reference_b_approver" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Department" max_length="32" name="u_reference_department" reference="cmn_department" type="reference"/>
+        <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_1" type="simple_name_values"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="u_string_full_utf8_1" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Request number" max_length="40" name="u_string_request" type="string"/>
+        <element attributes="base_start=true" label="users table" max_length="80" name="u_table_name_1" type="table_name"/>
+    </element>
+</database>

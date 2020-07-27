@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="budget_approver" label="Budget approver" language="en" table="var__m_sys_hub_flow_input_a61d1e4a07589810f686fbbf7c1ed088">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>budget_approver</element>
+            <help/>
+            <hint/>
+            <label>Budget approver</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_a61d1e4a07589810f686fbbf7c1ed088</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-22 09:59:33</sys_created_on>
+            <sys_id>fe1d1e4a07589810f686fbbf7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Budget approver</sys_name>
+            <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_a61d1e4a07589810f686fbbf7c1ed088_budget_approver_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-22 09:59:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Asset" max_length="40" name="x_465830_webinfosy_user_asset" sizeclass="6" type="collection">
+        <element choice="1" label="Disk Size" max_length="40" name="disk_size" type="string">
+            <choice/>
+        </element>
+        <element label="Item SysID" max_length="40" name="item_sysid" reference="sc_req_item" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="AssetID" max_length="40" name="number" type="string"/>
+        <element label="Project" max_length="32" name="user" reference="x_465830_webinfosy_project" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

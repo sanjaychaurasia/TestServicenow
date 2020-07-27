@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Software Factory  Virtual Machines</description>
+        <entitlement_script/>
+        <header_icon>18caafc307401010f686fbbf7c1ed080</header_icon>
+        <homepage_image>40fa41b707c09010f686fbbf7c1ed03e</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon>ec59af0707401010f686fbbf7c1ed042</icon>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 05:17:35</sys_created_on>
+        <sys_id>bd034bbc07001810f686fbbf7c1ed029</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Cloud SDE</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sc_category_bd034bbc07001810f686fbbf7c1ed029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-14 09:39:45</sys_updated_on>
+        <title>Cloud SDE</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd034bbc07001810f686fbbf7c1ed029"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#a3dff8</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <hash>3be98f3f1cad6c5803f6afd577781559d832d71f1998cefb90d32b0a32ea441e</hash>
+        <image_height>53</image_height>
+        <image_width>72</image_width>
+        <size_bytes>1237</size_bytes>
+        <size_compressed>1260</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 04:14:14</sys_created_on>
+        <sys_id>40fa41b707c09010f686fbbf7c1ed03e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-04-15 04:14:16</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>bd034bbc07001810f686fbbf7c1ed029</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="40fa41b707c09010f686fbbf7c1ed03e">40fa41b707c09010f686fbbf7c1ed03e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 04:14:14</sys_created_on>
+        <sys_id>80fa41b707c09010f686fbbf7c1ed03e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AdUEKvuJUE5HDQoaCgAAAA1JSERSAAAASAAAADUIBgAAAOJRrVgAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAABGpJREFUaEPtm19sU1Ucx3+/0zLKWBnroP+SwsYysQM6FnlQZiBTE3kgMZNkGCVqgnvC+EbiKGYhmpiQ+GKMD/LgC3EkRmmj8YUE/xCNWSQgKvNhbIww123N6LBd+vcez21/AesWznW3u+1t7udh9/f9dWvu+fbc3/ndczuECuEeioaQ8RPIoRcAWyhtIniGA44hg5FYKDMCAwMFNVsRg3zh6CnO+buA4u3rAQ4/8Uy+f/aDI3O6DfKEIycQ8COS9cRobD72tC6D/G9/2aow220xD5soBRvXr8u5NjWmSZqGdC5viydSjZy0Clf4m7oMcocjgwzwE5IQDLgXXn1u720bE5XIhPw6MdP82Xc3OrgoRpQa1VUzxB+HKCzS3xu8a1ZzVLp3+BbbPS33SYIwKqSzqKKDgiKbNzpyFJqWpg0ND8aACI76WHXWkOK15hn6arfoYd4RVWlnMasRcS0FENFFEs4ef/4qhabl/OXr229Mzm4hCegdinQBw59F7CylVk9Ph2+eQilqrWrzuJL7Ov0JVkN1a7lBp6IXxDw6StpwOnyuxcFD+27VikkrGBSZFNWojTQc3uWHXb5NpB7NxMx9mEs8bHkC21x/Uygllc6zb36705jJK9i/v2vyqWBggV6qKivNoGkxg/yqeMzthO/f6iu+oIXL16fhj6l7pACePRicoVAT534Yc14YnWjq3uGNv9LXPUXpqvJfg8pWsWbHOoqMocnRoKhHRVF03/KsFdYyL8EySIJlkATLIAmWQRIsgyRYBkmwDJJgGSTBMkiCZZAEyyAJlkESLIMkWAZJsAySUGZQPJUBhRu3NbyQzNjUo91mK26c1SLqlus4IHSQhifbWmGnW9sDjul4Sh0kKQC3u3mJQinpbB6vjMc2FBQORw/sufVEpz9BL1WV5XvS4cin4vA6acMJtXvjx56pjf1olRUM+no7QGFUxO5SavUc2NP2F4VSbMh4u2dz6vFtWzU/CTGCZQapP/zhiwGF40khg4Bc+wY6V3+/9EREpS6frNJxVXjD0XPi8EZJ1adB1jIvQa9BZavWXCK5nkLTkkimH4yBc76kzyDOyy6pL368GVjK5Iq9jdlQu78rv09tuTO/+LDHQbyqqwa1now47Q04Kd6klVJgZ0xx/utLSGYhky8w8eGWP1rm/DVdBqm4hy6+zBieV+2mVF3AgV+atV87VJFBecLR48LtDxGxkVImh0cL9uZj82f6khX71NVeqgA4iID7hdT1ZSxRHHf/X7NFDflFDEbHPR0viL7uT3HnMzL3/guXKKmvD1orxIy8Jk5sL0ktcJc947h5ZiBLumJYfZAEyyAJtXmJnY68BAXcSlIDCsyO5z6Gz0v/oWNhIMbNoOFv7e5sYgAZ6xLLVHVmLoOEPVsYmT575C5lpBhzosPDzJvriYpe8jBlqoZoAO8hKr2x914co9QjMaRIe7I9B2vBHBXRp7UAZ6dJSjHEIIbYSWFNIJpKzedjiEFiWtdWO8G1jhvgHymTbK0PvP7IAAAAAElFTkSuQmCC45HUPdUEAAA=</data>
+        <length>1668</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="40fa41b707c09010f686fbbf7c1ed03e">40fa41b707c09010f686fbbf7c1ed03e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 04:14:14</sys_created_on>
+        <sys_id>04fa41b707c09010f686fbbf7c1ed03e</sys_id>
+    </sys_attachment_doc>
+</record_update>

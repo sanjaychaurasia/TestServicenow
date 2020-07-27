@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_465830_webinfosy_project_asset</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 08:19:22</sys_created_on>
+        <sys_id>3056fc1107845810f686fbbf7c1ed022</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_webinfosy_project_asset</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>ua_table_licensing_config_3056fc1107845810f686fbbf7c1ed022</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 08:19:22</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>ua_table_licensing_config_3056fc1107845810f686fbbf7c1ed022</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_465830_webinfosy_project_asset</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-07 08:19:22</sys_created_on><sys_id>3056fc1107845810f686fbbf7c1ed022</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_465830_webinfosy_project_asset</sys_name><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>ua_table_licensing_config_3056fc1107845810f686fbbf7c1ed022</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-07 08:19:22</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>910792533</payload_hash>
+        <record_name>x_465830_webinfosy_project_asset</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 08:19:22</sys_created_on>
+        <sys_id>b456fc1107845810f686fbbf7c1ed023</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17153b8f47f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 08:19:22</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>fc56fc11238458103a7476968678ed22</update_guid>
+        <update_guid_history>fc56fc11238458103a7476968678ed22:910792533</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 11:42:17</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>2e63257d07a140519eb5008c38894809</sys_id>
+        <sys_metadata>3056fc1107845810f686fbbf7c1ed022</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_webinfosy_project_asset</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_3056fc1107845810f686fbbf7c1ed022</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_3056fc1107845810f686fbbf7c1ed022">b456fc1107845810f686fbbf7c1ed023</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 11:42:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hidden_department" label="Hidden department" language="en" table="x_465830_webinfosy_project_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hidden_department</element>
+            <help/>
+            <hint/>
+            <label>Hidden department</label>
+            <language>en</language>
+            <name>x_465830_webinfosy_project_request</name>
+            <plural>Hidden departments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-05 05:29:38</sys_created_on>
+            <sys_id>cf4c7524078c9410f686fbbf7c1ed0ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hidden department</sys_name>
+            <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+            <sys_update_name>sys_documentation_x_465830_webinfosy_project_request_hidden_department_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-05 05:29:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

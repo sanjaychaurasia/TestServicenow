@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="WebInfoSys">880e54a807678010f686fbbf7c1ed0ab</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>My project list</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Project List</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_465830_webinfosy_project</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 04:16:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e5874a007e78010f686fbbf7c1ed02d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Project List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_app_module_8e5874a007e78010f686fbbf7c1ed02d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 17:44:55</sys_updated_on>
+        <timeline_page/>
+        <title>Project List</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_app_module_8e5874a007e78010f686fbbf7c1ed02d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="WebInfoSys">880e54a807678010f686fbbf7c1ed0ab</application><assessment/><device_type/><filter/><hint>My project list</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Project List</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_465830_webinfosy_project</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-11 04:16:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e5874a007e78010f686fbbf7c1ed02d</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Project List</sys_name><sys_overrides/><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sys_app_module_8e5874a007e78010f686fbbf7c1ed02d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-05 17:44:55</sys_updated_on><timeline_page/><title>Project List</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1621267027</payload_hash>
+        <record_name>Project List</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 17:44:55</sys_created_on>
+        <sys_id>f594a8bc07c4d410f686fbbf7c1ed056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1714b7203e40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 17:44:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7194a8bc3ac4d41000f1db15e2984c56</update_guid>
+        <update_guid_history>7194a8bc3ac4d41000f1db15e2984c56:1621267027,3e24243cf2c4d410db8268bac1645eef:-1904527243,8bec6a18eb3340108a4df6b915bc2203:-1867175950,e959b7df606f8410653b2946cfd0ac68:346835066,6dbb34605fe78010f8fad865a0788bfd:-2095013808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Project List">fb86ec300708d410f686fbbf7c1ed034</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 17:53:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>002df6b046684e1085140c388e3c2840</sys_id>
+        <sys_metadata>8e5874a007e78010f686fbbf7c1ed02d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project List</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_app_module_8e5874a007e78010f686fbbf7c1ed02d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8e5874a007e78010f686fbbf7c1ed02d">f594a8bc07c4d410f686fbbf7c1ed056</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 17:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

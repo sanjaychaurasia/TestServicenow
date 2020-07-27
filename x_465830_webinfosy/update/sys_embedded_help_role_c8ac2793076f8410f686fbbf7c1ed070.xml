@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_465830_webinfosy.Users" name="x_465830_webinfosy.Users">057c6bd3076f8410f686fbbf7c1ed0de</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 06:12:18</sys_created_on>
+        <sys_id>c8ac2793076f8410f686fbbf7c1ed070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>057c6bd3076f8410f686fbbf7c1ed0de</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c8ac2793076f8410f686fbbf7c1ed070</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 06:12:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

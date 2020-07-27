@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name> Department of Loggedin user</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	var getDep = new GlideAjax('GetUserDepartment');
+	// Specify the getUserDepartment method
+	getDep.addParam('sysparm_name','getUserDepartment');
+	// Pass the Requested for sys_id
+	getDep.addParam('sysparm_userID', g_user.userID);
+	// Send the request to the server
+	getDep.getXML(populateDepartmentField);
+
+	// When the response is back from the server
+	function populateDepartmentField(response){
+		// Extract the Department from the response, clear any value from the department field, 
+		// set new value in the Department field
+		var departmentFromScriptInclude = response.responseXML.documentElement.getAttribute("answer");
+		g_form.clearValue('hidden_department');
+		g_form.setValue('hidden_department',departmentFromScriptInclude);
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 05:34:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>659c3d24078c9410f686fbbf7c1ed0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> Department of Loggedin user</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_script_client_659c3d24078c9410f686fbbf7c1ed0c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 05:34:18</sys_updated_on>
+        <table>x_465830_webinfosy_project_request</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

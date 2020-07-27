@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_flow</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 09:06:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dddd027707089010f686fbbf7c1ed0cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_update_name>sys_hub_flow_dddd027707089010f686fbbf7c1ed0cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 09:06:31</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=dddd027707089010f686fbbf7c1ed0cb"/>
+    <sys_variable_value action="DELETE" query="document_key=dddd027707089010f686fbbf7c1ed0cb"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=dddd027707089010f686fbbf7c1ed0cb^sys_idNOT INdddd027707089010f686fbbf7c1ed0cd"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>dddd027707089010f686fbbf7c1ed0cb</id>
+        <name>Test Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 09:06:31</sys_created_on>
+        <sys_id>dddd027707089010f686fbbf7c1ed0cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 09:06:31</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_hub_flow_dddd027707089010f686fbbf7c1ed0cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><copied_from/><copied_from_name/><description/><internal_name>test_flow</internal_name><label_cache>null</label_cache><latest_snapshot/><master_snapshot/><name>Test Flow</name><outputs/><remote_trigger_id/><run_as>system</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-15 09:06:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dddd027707089010f686fbbf7c1ed0cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Flow</sys_name><sys_overrides/><sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package><sys_policy/><sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope><sys_update_name>sys_hub_flow_dddd027707089010f686fbbf7c1ed0cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-15 09:06:31</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=dddd027707089010f686fbbf7c1ed0cb"/><sys_variable_value action="delete_multiple" query="document_key=dddd027707089010f686fbbf7c1ed0cb"/><sys_flow_cat_variable_model action="delete_multiple" query="id=dddd027707089010f686fbbf7c1ed0cb^sys_idNOT INdddd027707089010f686fbbf7c1ed0cd"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>dddd027707089010f686fbbf7c1ed0cb</id><name>Test Flow</name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-15 09:06:31</sys_created_on><sys_id>dddd027707089010f686fbbf7c1ed0cd</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-15 09:06:31</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>-2079343324</payload_hash>
+        <record_name>Test Flow</record_name>
+        <reverted_from/>
+        <source>57ab902807678010f686fbbf7c1ed065</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 09:06:31</sys_created_on>
+        <sys_id>65dd027707089010f686fbbf7c1ed0d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717d16fecd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 09:06:31</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>addd0277bb089010cbb7a8d86cb1a2d1</update_guid>
+        <update_guid_history>addd0277bb089010cbb7a8d86cb1a2d1:-2079343324</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-15 09:08:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>a947a6415fc3481cae559ec66d8007a4</sys_id>
+        <sys_metadata>dddd027707089010f686fbbf7c1ed0cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Flow</sys_name>
+        <sys_package display_value="WebInfoSys" source="x_465830_webinfosy">5fab902807678010f686fbbf7c1ed062</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WebInfoSys">5fab902807678010f686fbbf7c1ed062</sys_scope>
+        <sys_scope_delete display_value="">12aa5093461b413ab9317520b666c029</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_dddd027707089010f686fbbf7c1ed0cb</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_dddd027707089010f686fbbf7c1ed0cb">65dd027707089010f686fbbf7c1ed0d2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 09:08:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

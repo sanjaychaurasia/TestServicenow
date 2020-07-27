@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="CloudSDE" max_length="40" name="x_465830_webinfosy_cloudsde" sizeclass="1" type="collection">
+        <element label="Disk size" max_length="50" name="disk_size" type="string"/>
+    </element>
+</database>
